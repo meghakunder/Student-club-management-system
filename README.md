@@ -4,7 +4,7 @@ A system to allow the college clubs to give options to all students to login and
 
 The club secretaries have a privilege to book halls and look through other booked slots and plan events by getting all the details of the students who have applied for it.
 
-Abstract Modules:
+Modules:
 
 1)	4 - login views Admin, Mentor, Secretary, Student. Where privilege will be given accordingly to the type of user.
 
@@ -16,4 +16,3 @@ Abstract Modules:
 
 5)	Secretary is selected by Mentors of respective club.
 
-6)	Further additions will be made regarding the project as and when required.
